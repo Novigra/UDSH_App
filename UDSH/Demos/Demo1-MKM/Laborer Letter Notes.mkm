@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<File>
+  <Metadata>
+    <AuthorID />
+    <FileID>42f76e00-5c1b-4f76-bbd3-fc8e1ba40c9e</FileID>
+    <FileName>Laborer Letter Notes</FileName>
+    <FileType>mkm</FileType>
+    <FileAuthor>Keem</FileAuthor>
+    <FileVersion>0.1.0</FileVersion>
+    <FileSize>2.81 KB</FileSize>
+    <FileCreationDate>7/1/2026 12:57:57 AM</FileCreationDate>
+    <FileLastModificationDate>7/13/2026 5:54:48 AM</FileLastModificationDate>
+    <SourceLanguageCulture>en</SourceLanguageCulture>
+    <IsLanguageRTL>False</IsLanguageRTL>
+  </Metadata>
+  <Document>
+    <ParagraphLine TextAlignment="Left" TextType="Normal" BlockID="73025342-15c0-41f1-bcd5-33029cbd7675">
+      <Normal>
+        <Normal>
+          <Normal>The fallen Egyptian laborer, Shoukry Waheed, forced to work for the british army in the levant region. He was there because the british needed men for heavy railway construction. </Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="Normal" BlockID="48dd6062-8098-4f91-b5e1-e0c81d268d86">
+      <Normal>
+        <Normal>
+          <Normal>It's not surprising for an Egyptian to be there as Egypt was under the british occupation and the Egyptians were the best and had high tolerance for the inhumane construction work.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="List">
+      <List>
+        <ListItem BlockID="7bc80fa4-fddd-4810-b162-93b6c7d4807b">
+          <Normal>
+            <Normal>
+              <Normal>Talk about that Shoukry ended up here because he needed money for his family as the conditions don't look great there.</Normal>
+            </Normal>
+          </Normal>
+        </ListItem>
+        <ListItem BlockID="8b863e9c-206d-406e-8428-8a9cffde5ae5">
+          <Normal>
+            <Normal>
+              <Normal>Talk about that a newcomer Ali came and he told him during work that the condition is worsening in Egypt and a new drug is taking the country by storm.</Normal>
+            </Normal>
+          </Normal>
+        </ListItem>
+        <ListItem BlockID="9d68d4fe-3580-44dd-8196-f269c164ae8a">
+          <Normal>
+            <Normal>
+              <Normal>One day Shoukry unfortunately died because of exhaustion, and Ali, our playable character, discover the letter that Shoukry wrote for his wife.</Normal>
+            </Normal>
+          </Normal>
+        </ListItem>
+        <ListItem BlockID="f504af49-2146-4741-a6af-8940f0823053">
+          <Normal>
+            <Normal>
+              <Normal>Shoukry with two young men Ali, Khaled, and they reminded him of his sons.</Normal>
+            </Normal>
+          </Normal>
+        </ListItem>
+      </List>
+    </ParagraphLine>
+  </Document>
+  <Localization />
+</File>

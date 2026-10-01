@@ -1,0 +1,444 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<File SaveNextLaunch="True">
+  <Metadata>
+    <AuthorID />
+    <FileID>51115f32-5cdc-4af0-a5f4-91c44e43efe4</FileID>
+    <FileName>Merchant</FileName>
+    <FileType>mkb</FileType>
+    <FileAuthor>Keem</FileAuthor>
+    <FileVersion>0.1.0</FileVersion>
+    <FileSize>17.48 KB</FileSize>
+    <FileCreationDate>7/15/2026 7:44:56 AM</FileCreationDate>
+    <FileLastModificationDate>7/15/2026 7:44:56 AM</FileLastModificationDate>
+    <SourceLanguageCulture>en</SourceLanguageCulture>
+    <IsLanguageRTL>False</IsLanguageRTL>
+  </Metadata>
+  <SideDialogueNodes />
+  <Document CanvasWidth="9136" CanvasHeight="7048" CameraOffsetX="-741.4285714285716" CameraOffsetY="-525" Scale="0.6">
+    <NodeBlock NodeID="9be90cc7-5fea-4311-ba98-bb77df59a0e6" NodeType="Head" IsRoot="True" IsSubRoot="False" XPosition="1335.4285714285713" YPosition="220.36000000000013" EngineXPosition="0" EngineYPosition="0">
+      <NodeChildrenConnections>
+        <NodeID>83c3df89-9727-432f-8617-f3c06d1358d9</NodeID>
+      </NodeChildrenConnections>
+      <NodeVisualProperties>
+        <CollisionBorderInitialHeight>72</CollisionBorderInitialHeight>
+        <IsChildrenNodeCollisionBorderActive>True</IsChildrenNodeCollisionBorderActive>
+      </NodeVisualProperties>
+    </NodeBlock>
+    <NodeBlock NodeID="83c3df89-9727-432f-8617-f3c06d1358d9" NodeType="Dialogue" IsRoot="False" IsSubRoot="False" XPosition="1335.4285714285713" YPosition="310.4" EngineXPosition="0" EngineYPosition="0">
+      <NodeChildrenConnections>
+        <NodeID>dbe3de1a-1607-4153-ab1e-83873527758e</NodeID>
+        <NodeID>078e117e-3663-451e-9a27-3eb55922b736</NodeID>
+        <NodeID>2a4da3b5-06db-41ad-aed4-629d2790eda8</NodeID>
+        <NodeID>d8b25206-ee93-4fe2-94b3-84f33f0b2203</NodeID>
+      </NodeChildrenConnections>
+      <NodeVisualProperties>
+        <CollisionBorderInitialHeight>241.46666666666667</CollisionBorderInitialHeight>
+        <IsChildrenNodeCollisionBorderActive>True</IsChildrenNodeCollisionBorderActive>
+      </NodeVisualProperties>
+      <ParagraphLine TextType="Character">
+        <SemiBold>
+          <Normal>
+            <Normal>MERCHANT</Normal>
+          </Normal>
+        </SemiBold>
+      </ParagraphLine>
+      <ParagraphLine TextType="Dialogue">
+        <SemiBold>
+          <Normal>
+            <Normal>Ladies and gentlemen, I can see your eyes glowing and taking interest, and they are not wrong. Swords, shields, potions— we got it all. Your hair receded and your head shines just as the day you came out of your mother's womb? no problem we got a solution for it.</Normal>
+          </Normal>
+        </SemiBold>
+      </ParagraphLine>
+    </NodeBlock>
+    <NodeBlock NodeID="dbe3de1a-1607-4153-ab1e-83873527758e" NodeType="Choice" IsRoot="False" IsSubRoot="False" XPosition="877.1999999999999" YPosition="617.8571428571429" EngineXPosition="0" EngineYPosition="0" NodeOrder="1">
+      <NodeChildrenConnections>
+        <NodeID>c7a06691-5a66-45c0-ab7b-aff89dab18ad</NodeID>
+      </NodeChildrenConnections>
+      <NodeVisualProperties>
+        <CollisionBorderInitialHeight>192.09333333333333</CollisionBorderInitialHeight>
+        <IsChildrenNodeCollisionBorderActive>True</IsChildrenNodeCollisionBorderActive>
+      </NodeVisualProperties>
+      <ParagraphLine TextType="Choice">
+        <SemiBold>
+          <Normal>
+            <Normal>Show me what you've got.</Normal>
+          </Normal>
+        </SemiBold>
+      </ParagraphLine>
+      <ParagraphLine TextType="Character">
+        <SemiBold>
+          <Normal>
+            <Normal>PLAYER</Normal>
+          </Normal>
+        </SemiBold>
+      </ParagraphLine>
+      <ParagraphLine TextType="Dialogue">
+        <SemiBold>
+          <Normal>
+            <Normal>Show me what you've got.</Normal>
+          </Normal>
+        </SemiBold>
+      </ParagraphLine>
+    </NodeBlock>
+    <NodeBlock NodeID="078e117e-3663-451e-9a27-3eb55922b736" NodeType="Choice" IsRoot="False" IsSubRoot="False" XPosition="1265.485714285714" YPosition="619.5714285714286" EngineXPosition="0" EngineYPosition="0" NodeOrder="2">
+      <NodeChildrenConnections>
+        <NodeID>4febfbe5-a6aa-49ff-8714-827d8adb1287</NodeID>
+      </NodeChildrenConnections>
+      <NodeVisualProperties>
+        <CollisionBorderInitialHeight>205.16</CollisionBorderInitialHeight>
+        <IsChildrenNodeCollisionBorderActive>True</IsChildrenNodeCollisionBorderActive>
+      </NodeVisualProperties>
+      <ParagraphLine TextType="Choice">
+        <SemiBold>
+          <Normal>
+            <Normal>I want to upgrade my sword.</Normal>
+          </Normal>
+        </SemiBold>
+      </ParagraphLine>
+      <ParagraphLine TextType="Character">
+        <SemiBold>
+          <Normal>
+            <Normal>PLAYER</Normal>
+          </Normal>
+        </SemiBold>
+      </ParagraphLine>
+      <ParagraphLine TextType="Dialogue">
+        <SemiBold>
+          <Normal>
+            <Normal>My sword is failing me. I want it stronger. Can you make it stronger?</Normal>
+          </Normal>
+        </SemiBold>
+      </ParagraphLine>
+    </NodeBlock>
+    <NodeBlock NodeID="2a4da3b5-06db-41ad-aed4-629d2790eda8" NodeType="Choice" IsRoot="False" IsSubRoot="False" XPosition="1636.6285714285714" YPosition="585.8285714285714" EngineXPosition="0" EngineYPosition="0" NodeOrder="3">
+      <NodeChildrenConnections />
+      <NodeVisualProperties>
+        <CollisionBorderInitialHeight>192.09333333333333</CollisionBorderInitialHeight>
+        <IsChildrenNodeCollisionBorderActive>True</IsChildrenNodeCollisionBorderActive>
+      </NodeVisualProperties>
+      <ParagraphLine TextType="Choice">
+        <SemiBold>
+          <Normal>
+            <Normal>I want to upgrade my shield.</Normal>
+          </Normal>
+        </SemiBold>
+      </ParagraphLine>
+      <ParagraphLine TextType="Character">
+        <SemiBold>
+          <Normal>
+            <Normal>PLAYER</Normal>
+          </Normal>
+        </SemiBold>
+      </ParagraphLine>
+      <ParagraphLine TextType="Dialogue">
+        <SemiBold>
+          <Normal>
+            <Normal>My shields need some fixing.</Normal>
+          </Normal>
+        </SemiBold>
+      </ParagraphLine>
+    </NodeBlock>
+    <NodeBlock NodeID="d8b25206-ee93-4fe2-94b3-84f33f0b2203" NodeType="Choice" IsRoot="False" IsSubRoot="False" XPosition="2036.9142857142858" YPosition="616.1428571428571" EngineXPosition="0" EngineYPosition="0" NodeOrder="4">
+      <NodeChildrenConnections>
+        <NodeID>6bd8affd-609c-4d07-8291-c212390680ba</NodeID>
+      </NodeChildrenConnections>
+      <NodeVisualProperties>
+        <CollisionBorderInitialHeight>192.09333333333333</CollisionBorderInitialHeight>
+        <IsChildrenNodeCollisionBorderActive>True</IsChildrenNodeCollisionBorderActive>
+      </NodeVisualProperties>
+      <ParagraphLine TextType="Choice">
+        <SemiBold>
+          <Normal>
+            <Normal>[EXIT]</Normal>
+          </Normal>
+        </SemiBold>
+      </ParagraphLine>
+      <ParagraphLine TextType="Character">
+        <SemiBold>
+          <Normal>
+            <Normal>PLAYER</Normal>
+          </Normal>
+        </SemiBold>
+      </ParagraphLine>
+      <ParagraphLine TextType="Dialogue">
+        <SemiBold>
+          <Normal>
+            <Normal>Thank you for your service</Normal>
+          </Normal>
+        </SemiBold>
+      </ParagraphLine>
+    </NodeBlock>
+    <NodeBlock NodeID="c7a06691-5a66-45c0-ab7b-aff89dab18ad" NodeType="Dialogue" IsRoot="False" IsSubRoot="False" XPosition="878.0571428571427" YPosition="823.5714285714289" EngineXPosition="0" EngineYPosition="0">
+      <NodeChildrenConnections>
+        <NodeID>6c5ffa3a-7ca9-412a-86b7-7111b0101124</NodeID>
+      </NodeChildrenConnections>
+      <NodeVisualProperties>
+        <CollisionBorderInitialHeight>176.13333333333333</CollisionBorderInitialHeight>
+        <IsChildrenNodeCollisionBorderActive>True</IsChildrenNodeCollisionBorderActive>
+      </NodeVisualProperties>
+      <ParagraphLine TextType="Character">
+        <SemiBold>
+          <Normal>
+            <Normal>MERCHANT</Normal>
+          </Normal>
+        </SemiBold>
+      </ParagraphLine>
+      <ParagraphLine TextType="Dialogue">
+        <SemiBold>
+          <Normal>
+            <Normal>What're ya buyin?</Normal>
+          </Normal>
+        </SemiBold>
+      </ParagraphLine>
+    </NodeBlock>
+    <NodeBlock NodeID="4febfbe5-a6aa-49ff-8714-827d8adb1287" NodeType="Dialogue" IsRoot="False" IsSubRoot="False" XPosition="1264.6285714285714" YPosition="782.1142857142856" EngineXPosition="0" EngineYPosition="0">
+      <NodeChildrenConnections />
+      <NodeVisualProperties>
+        <CollisionBorderInitialHeight>176.13333333333333</CollisionBorderInitialHeight>
+        <IsChildrenNodeCollisionBorderActive>True</IsChildrenNodeCollisionBorderActive>
+      </NodeVisualProperties>
+      <ParagraphLine TextType="Character">
+        <SemiBold>
+          <Normal>
+            <Normal>MERCHANT</Normal>
+          </Normal>
+        </SemiBold>
+      </ParagraphLine>
+      <ParagraphLine TextType="Dialogue">
+        <SemiBold>
+          <Normal>
+            <Normal>Yes we can!</Normal>
+          </Normal>
+        </SemiBold>
+      </ParagraphLine>
+    </NodeBlock>
+    <NodeBlock NodeID="6bd8affd-609c-4d07-8291-c212390680ba" NodeType="Dialogue" IsRoot="False" IsSubRoot="False" XPosition="2037.7714285714283" YPosition="909.4" EngineXPosition="0" EngineYPosition="0">
+      <NodeChildrenConnections />
+      <NodeVisualProperties>
+        <CollisionBorderInitialHeight>189.2</CollisionBorderInitialHeight>
+        <IsChildrenNodeCollisionBorderActive>True</IsChildrenNodeCollisionBorderActive>
+      </NodeVisualProperties>
+      <ParagraphLine TextType="Character">
+        <SemiBold>
+          <Normal>
+            <Normal>MERCHANT</Normal>
+          </Normal>
+        </SemiBold>
+      </ParagraphLine>
+      <ParagraphLine TextType="Dialogue">
+        <SemiBold>
+          <Normal>
+            <Normal>No problem. If you need anything, you know where to come.</Normal>
+          </Normal>
+        </SemiBold>
+      </ParagraphLine>
+    </NodeBlock>
+    <NodeBlock NodeID="6c5ffa3a-7ca9-412a-86b7-7111b0101124" NodeType="Dialogue" IsRoot="False" IsSubRoot="False" XPosition="874.9142857142855" YPosition="1032.2571428571428" EngineXPosition="0" EngineYPosition="0">
+      <NodeChildrenConnections />
+      <NodeVisualProperties>
+        <CollisionBorderInitialHeight>176.13333333333333</CollisionBorderInitialHeight>
+        <IsChildrenNodeCollisionBorderActive>True</IsChildrenNodeCollisionBorderActive>
+      </NodeVisualProperties>
+      <ParagraphLine TextType="Character">
+        <SemiBold>
+          <Normal>
+            <Normal>PLAYER</Normal>
+          </Normal>
+        </SemiBold>
+      </ParagraphLine>
+      <ParagraphLine TextType="Dialogue">
+        <SemiBold>
+          <Normal>
+            <Normal>Ahh... okay?</Normal>
+          </Normal>
+        </SemiBold>
+      </ParagraphLine>
+    </NodeBlock>
+  </Document>
+  <Localization>
+    <LocalizationData Culture="ar" IsRTL="True">
+      <LocalizationBlock BlockID="83c3df89-9727-432f-8617-f3c06d1358d9">
+        <ParagraphLine TextType="Character">
+          <SemiBold>
+            <Normal>
+              <Normal>التاجر</Normal>
+            </Normal>
+          </SemiBold>
+        </ParagraphLine>
+        <ParagraphLine TextType="Dialogue">
+          <SemiBold>
+            <Normal>
+              <Normal>سيداتي و سادتي، انا شايف عيونكم بتلمع و بتظهر اهتمام، و هم مش غلطانين. سيوف، دروع، جرعات، عندنا كل حاجة. شعرك اتسحب و راسك بتلمع زي اليوم اللي طلعت من بطن امك؟ مفيش مشكلة عندنا حل ليه.</Normal>
+            </Normal>
+          </SemiBold>
+        </ParagraphLine>
+      </LocalizationBlock>
+      <LocalizationBlock BlockID="dbe3de1a-1607-4153-ab1e-83873527758e">
+        <ParagraphLine TextType="Choice">
+          <SemiBold>
+            <Normal>
+              <Normal>وريني عندك ايه</Normal>
+            </Normal>
+          </SemiBold>
+        </ParagraphLine>
+        <ParagraphLine TextType="Character">
+          <SemiBold>
+            <Normal>
+              <Normal>اللاعب</Normal>
+            </Normal>
+          </SemiBold>
+        </ParagraphLine>
+        <ParagraphLine TextType="Dialogue">
+          <SemiBold>
+            <Normal>
+              <Normal>وريني عندك ايه</Normal>
+            </Normal>
+          </SemiBold>
+        </ParagraphLine>
+      </LocalizationBlock>
+      <LocalizationBlock BlockID="078e117e-3663-451e-9a27-3eb55922b736">
+        <ParagraphLine TextType="Choice">
+          <SemiBold>
+            <Normal>
+              <Normal>انا</Normal>
+            </Normal>
+          </SemiBold>
+          <SemiBold>
+            <Normal>
+              <Normal> عايز احسن سيفي</Normal>
+            </Normal>
+          </SemiBold>
+        </ParagraphLine>
+        <ParagraphLine TextType="Character">
+          <SemiBold>
+            <Normal>
+              <Normal>اللاعب</Normal>
+            </Normal>
+          </SemiBold>
+        </ParagraphLine>
+        <ParagraphLine TextType="Dialogue">
+          <SemiBold>
+            <Normal>
+              <Normal>سيفي خذلني. انا عايزه اقوى. تقدر تخليه اقوى؟</Normal>
+            </Normal>
+          </SemiBold>
+        </ParagraphLine>
+      </LocalizationBlock>
+      <LocalizationBlock BlockID="2a4da3b5-06db-41ad-aed4-629d2790eda8">
+        <ParagraphLine TextType="Choice">
+          <SemiBold>
+            <Normal>
+              <Normal>انا</Normal>
+            </Normal>
+          </SemiBold>
+          <SemiBold>
+            <Normal>
+              <Normal> عايز احسن درعي</Normal>
+            </Normal>
+          </SemiBold>
+        </ParagraphLine>
+        <ParagraphLine TextType="Character">
+          <SemiBold>
+            <Normal>
+              <Normal>اللاعب</Normal>
+            </Normal>
+          </SemiBold>
+        </ParagraphLine>
+        <ParagraphLine TextType="Dialogue">
+          <SemiBold>
+            <Normal>
+              <Normal>درعي محتاج يتصلح</Normal>
+            </Normal>
+          </SemiBold>
+        </ParagraphLine>
+      </LocalizationBlock>
+      <LocalizationBlock BlockID="d8b25206-ee93-4fe2-94b3-84f33f0b2203">
+        <ParagraphLine TextType="Choice">
+          <SemiBold>
+            <Normal>
+              <Normal>[خروج]</Normal>
+            </Normal>
+          </SemiBold>
+        </ParagraphLine>
+        <ParagraphLine TextType="Character">
+          <SemiBold>
+            <Normal>
+              <Normal>اللاعب</Normal>
+            </Normal>
+          </SemiBold>
+        </ParagraphLine>
+        <ParagraphLine TextType="Dialogue">
+          <SemiBold>
+            <Normal>
+              <Normal>شكرا على خدمتك</Normal>
+            </Normal>
+          </SemiBold>
+        </ParagraphLine>
+      </LocalizationBlock>
+      <LocalizationBlock BlockID="c7a06691-5a66-45c0-ab7b-aff89dab18ad">
+        <ParagraphLine TextType="Character">
+          <SemiBold>
+            <Normal>
+              <Normal>التاجر</Normal>
+            </Normal>
+          </SemiBold>
+        </ParagraphLine>
+        <ParagraphLine TextType="Dialogue">
+          <SemiBold>
+            <Normal>
+              <Normal>هتشتري ايه؟</Normal>
+            </Normal>
+          </SemiBold>
+        </ParagraphLine>
+      </LocalizationBlock>
+      <LocalizationBlock BlockID="6c5ffa3a-7ca9-412a-86b7-7111b0101124">
+        <ParagraphLine TextType="Character">
+          <SemiBold>
+            <Normal>
+              <Normal>اللاعب</Normal>
+            </Normal>
+          </SemiBold>
+        </ParagraphLine>
+        <ParagraphLine TextType="Dialogue">
+          <SemiBold>
+            <Normal>
+              <Normal>تمام؟</Normal>
+            </Normal>
+          </SemiBold>
+        </ParagraphLine>
+      </LocalizationBlock>
+      <LocalizationBlock BlockID="4febfbe5-a6aa-49ff-8714-827d8adb1287">
+        <ParagraphLine TextType="Character">
+          <SemiBold>
+            <Normal>
+              <Normal>التاجر</Normal>
+            </Normal>
+          </SemiBold>
+        </ParagraphLine>
+        <ParagraphLine TextType="Dialogue">
+          <SemiBold>
+            <Normal>
+              <Normal>ايوه احنا نقدر!</Normal>
+            </Normal>
+          </SemiBold>
+        </ParagraphLine>
+      </LocalizationBlock>
+      <LocalizationBlock BlockID="6bd8affd-609c-4d07-8291-c212390680ba">
+        <ParagraphLine TextType="Character">
+          <SemiBold>
+            <Normal>
+              <Normal>التاجر</Normal>
+            </Normal>
+          </SemiBold>
+        </ParagraphLine>
+        <ParagraphLine TextType="Dialogue">
+          <SemiBold>
+            <Normal>
+              <Normal>مفيش مشكلة. لو محتاج اي حاجة، انت عارف تلاقيني فين.</Normal>
+            </Normal>
+          </SemiBold>
+        </ParagraphLine>
+      </LocalizationBlock>
+    </LocalizationData>
+  </Localization>
+</File>

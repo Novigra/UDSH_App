@@ -1,0 +1,502 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<File>
+  <Metadata>
+    <AuthorID />
+    <FileID>ec2ed3a8-9869-435e-b99f-bca50afc9fc8</FileID>
+    <FileName>Big Mansion</FileName>
+    <FileType>mkc</FileType>
+    <FileAuthor>Keem</FileAuthor>
+    <FileVersion>0.1.0</FileVersion>
+    <FileSize>18.87 KB</FileSize>
+    <FileCreationDate>7/30/2026 10:35:40 AM</FileCreationDate>
+    <FileLastModificationDate>7/30/2026 10:35:40 AM</FileLastModificationDate>
+    <SourceLanguageCulture>en</SourceLanguageCulture>
+    <IsLanguageRTL>False</IsLanguageRTL>
+  </Metadata>
+  <Document>
+    <ParagraphLine TextType="SceneHeading" BlockID="66fd7489-10b3-46d2-bdf9-e97346949880">
+      <Normal>
+        <Normal>
+          <Normal>EXT. BIG MANSION - MIDNIGHT</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Action" BlockID="f673f9bf-7ecb-4d31-9007-464d6c5757c7">
+      <Normal>
+        <Normal>
+          <Normal>A vast landscape full of flowers of all shapes and colors. Sculpted fountains inspired by Roman sculptures. The fountains are spread throughout the gated landscape; they make a soothing waterfall sound.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Action" BlockID="f5a631fa-4bf1-42e5-a2c5-e00339bf3413">
+      <Normal>
+        <Normal>
+          <Normal>Lights are everywhere indicating an important event. People wearing expensive clothes and jewelry line up at the mansion's huge door, waiting for their turn with enthusiasm.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Action" BlockID="e21df5b9-ad74-486f-a836-9c7294b6da91">
+      <Normal>
+        <Normal>
+          <Normal>FARIDA, a woman in her forties, has a pitch-black braid and her body is well-shaped. She has a stern look on her face, and she's very concise when she speaks.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Action" BlockID="8af82608-d14d-40d7-b5f3-09642605c8ea">
+      <Normal>
+        <Normal>
+          <Normal>While Farida is checking the guests, a young man shows up in the distance. RAMY (26) has an average body, blond unkempt hair, ocean-blue eyes, and a sunburned face except for the part that was protected by his sunglasses. He has a super wide smile; it could pierce his ears and reaches the back of his head. He walks as if there are thousands of cameras waiting for him yet his clothes look unironed, worn, and faded.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Action" BlockID="29680344-b4d4-4fd3-b058-9fc0369648e5">
+      <Normal>
+        <Normal>
+          <Normal>Farida looks at the man and immediately sighs as if she knows who he is and what nonsense he is about to spout.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Character" BlockID="3670d088-4303-4a73-bd82-ddff9c674220" IsConnectedToMKB="False">
+      <Normal>
+        <Normal>
+          <Normal>RAMY</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Dialogue" BlockID="92036c70-862c-42e6-adfe-24d7fdc11954">
+      <Normal>
+        <Normal>
+          <Normal>Heeeey, look who it is.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Character" BlockID="f59bfb1f-cb98-41b5-9caf-8f32eaeda63f" IsConnectedToMKB="False">
+      <Normal>
+        <Normal>
+          <Normal>FARIDA</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Dialogue" BlockID="b8cc1738-a20a-4878-b958-ea0da2af8cf0">
+      <Normal>
+        <Normal>
+          <Normal>Oh, you're still alive.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Character" BlockID="2f65caa5-a4b7-45fc-866d-5d76c81bf9f2" IsConnectedToMKB="False">
+      <Normal>
+        <Normal>
+          <Normal>RAMY</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Dialogue" BlockID="2f563250-bdfa-49ea-b4c6-0dbf5b8a8238">
+      <Normal>
+        <Normal>
+          <Normal>What? Did you think the rich Ramy Tawfeek would get kidnapped?</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Action" BlockID="bdea03d6-3cbf-4b06-98cd-6800c1b5f857">
+      <Normal>
+        <Normal>
+          <Normal>Farida gives a cold chuckle.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Character" BlockID="6596d1e3-5e83-4c16-b672-eae9a1c7763b" IsConnectedToMKB="False">
+      <Normal>
+        <Normal>
+          <Normal>FARIDA</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Dialogue" BlockID="c8f84a97-5f25-41aa-9017-9eafb56ecbf7">
+      <Normal>
+        <Normal>
+          <Normal>Please. There's a higher chance of curing all terminal illnesses than of you getting kidnapped.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Character" BlockID="999ef7a4-54f7-4b55-b3a0-f745edf1d5ab" IsConnectedToMKB="False">
+      <Normal>
+        <Normal>
+          <Normal>RAMY</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Dialogue" BlockID="9b258707-4320-4746-bdf9-675b616da3d8">
+      <Normal>
+        <Normal>
+          <Normal>Ouch. Is this how you greet an old friend?</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Character" BlockID="19208cd0-3294-4451-aec4-51fe55963dd4" IsConnectedToMKB="False">
+      <Normal>
+        <Normal>
+          <Normal>FARIDA</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Dialogue" BlockID="9e64c75a-6892-4857-987e-70cd026a8d4b">
+      <Normal>
+        <Normal>
+          <Normal>Friend? It's very brave of you to come here after what you've done. Leave before you cause a scene.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Action" BlockID="becf5638-e164-4517-b0f7-712b04019550">
+      <Normal>
+        <Normal>
+          <Normal>while Farida delivers harsh words with a stern face that could penetrate a person's soul, Ramy still maintains his smug smile.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Character" BlockID="5bb8b3d0-2c47-4459-8d0b-89f9c6629305" IsConnectedToMKB="False">
+      <Normal>
+        <Normal>
+          <Normal>RAMY</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Dialogue" BlockID="2516b9da-c9cc-4002-a491-093f32348d11">
+      <Normal>
+        <Normal>
+          <Normal>Farida, come ooon. I'm here to celebrate my brother's achievements. Also, I didn't mean to ruin his deals. I was celebrating and I didn't keep track of how many bottles I drank.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Character" BlockID="eb3ad39d-4337-46e5-a5de-447ad29c5e54" IsConnectedToMKB="False">
+      <Normal>
+        <Normal>
+          <Normal>FARIDA</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Dialogue" BlockID="786848fd-1821-4f6a-96ff-b796a491ec98">
+      <Normal>
+        <Normal>
+          <Normal>Celebrate what? You're a mess, Ramy. All you do is party. Your parents disowned you, yet your brother stood by you. But you just kept disappointing him.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Action" BlockID="73ff191f-333a-4f60-a859-1e0b931b2169">
+      <Normal>
+        <Normal>
+          <Normal>Ramy stops his bravado act, and his smug smile turns into a frown.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Character" BlockID="4c3e6d77-241c-4980-8297-52a08df787ba" IsConnectedToMKB="False">
+      <Normal>
+        <Normal>
+          <Normal>RAMY</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Dialogue" BlockID="7594c88a-8bc6-4128-98f8-abff983b57e8">
+      <Normal>
+        <Normal>
+          <Normal>Farida, I'm—</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Action" BlockID="d26ec397-03a0-4360-a642-7de48ae391e7">
+      <Normal>
+        <Normal>
+          <Normal>Ramy looks past Farida and starts pointing and shouting.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Character" BlockID="e0c61020-fe7e-4f92-9e82-075bd0664b69" IsConnectedToMKB="False">
+      <Normal>
+        <Normal>
+          <Normal>RAMY</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Dialogue" BlockID="1db95838-e35e-435c-a30f-85aec97aad53">
+      <Normal>
+        <Normal>
+          <Normal>HEY! STOP THERE!</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Action" BlockID="fb024270-cbd9-4b5a-ba14-654fc6c93ee2">
+      <Normal>
+        <Normal>
+          <Normal>Farida looks to what's happening and braces herself for a potential fight.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Character" BlockID="53b6ca54-cf31-4d5c-ab70-7fe81f1642ae" IsConnectedToMKB="False">
+      <Normal>
+        <Normal>
+          <Normal>FARIDA</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Dialogue" BlockID="194bef8a-5f17-4619-8400-0bc09697ebc6">
+      <Normal>
+        <Normal>
+          <Normal>Huh...</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Action" BlockID="286d62b4-0e61-4dc8-8ec5-52d3b75e4fd0">
+      <Normal>
+        <Normal>
+          <Normal>Farida turns around and finds nothing. Then she hears a weird voice that sounds like an imitation with an indecipherable accent.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Character" BlockID="521da2af-4ec2-46df-adbf-7d02485f156d" IsConnectedToMKB="False">
+      <Normal>
+        <Normal>
+          <Normal>RAMY</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Dialogue" BlockID="e6cfc7ba-d171-4f6b-8efd-11f9947e761b">
+      <Normal>
+        <Normal>
+          <Normal>Hey madame. I hope we're not going to wait long for the extravagant event.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Action" BlockID="700be414-6df4-4ad3-b534-0938a6ca52e4">
+      <Normal>
+        <Normal>
+          <Normal>Farida looks at a man who looks exactly like Ramy, but with a comically long mustache and a tall black top hat. Her confusion turns into annoyance.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Character" BlockID="cdf42543-d541-49f4-8d8f-63b3fe8c871f" IsConnectedToMKB="False">
+      <Normal>
+        <Normal>
+          <Normal>FARIDA</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Dialogue" BlockID="05159771-1620-4ddf-9a6c-b2ec64c71a79">
+      <Normal>
+        <Normal>
+          <Normal>Ramy...</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Action" BlockID="c3234277-c8fa-476d-b153-7b96b086567b">
+      <Normal>
+        <Normal>
+          <Normal>One of the guests chips in.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Character" BlockID="8ca7bc9b-eceb-438e-9212-06cf36b5761e" IsConnectedToMKB="False">
+      <Normal>
+        <Normal>
+          <Normal>GUEST #1</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Dialogue" BlockID="38cca758-04d2-4157-b16a-076aeff97ce9">
+      <Normal>
+        <Normal>
+          <Normal>You imbecile. You could've snuck inside.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Character" BlockID="2bf936e1-093e-4deb-9c96-3a3fd3ecd918" IsConnectedToMKB="False">
+      <Normal>
+        <Normal>
+          <Normal>RAMY</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Dialogue" BlockID="5cf734a3-4a28-4b6f-a9d1-1eaa0a2ad8b5">
+      <Normal>
+        <Normal>
+          <Normal>What did you just call me? Do you know who I am?</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Action" BlockID="d0a4fb08-4f39-4446-8272-b3adf28d07b4">
+      <Normal>
+        <Normal>
+          <Normal>While Guest #1 and Ramy are about to start duking it out and Farida begins questioning her existence, a distant sound grows louder.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Action" BlockID="9c5cfaf6-f23f-4d57-a150-be95ad1fcf63">
+      <Normal>
+        <Normal>
+          <Normal>Farida looks up at the sky in disbelief.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Character" BlockID="6a4d5766-3e1a-44e4-8c74-96e849940284" IsConnectedToMKB="False">
+      <Normal>
+        <Normal>
+          <Normal>FARIDA</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Dialogue" BlockID="92053245-f11b-4e8c-90b6-f390bd680574">
+      <Normal>
+        <Normal>
+          <Normal>Is that...</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Action" BlockID="fbf09787-141a-4c60-918f-e0320bc51eb6">
+      <Normal>
+        <Normal>
+          <Normal>Ramy and Guest #1 stop fighting and say in unison.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Character" BlockID="da1dea5e-3cf8-45ee-8c72-a643751c9c73" IsConnectedToMKB="False">
+      <Normal>
+        <Normal>
+          <Normal>RAMY</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Dialogue" BlockID="93d3ccba-f0d3-4b2e-93e9-d7675a87b943">
+      <Normal>
+        <Normal>
+          <Normal>It's James Gunn!</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Character" BlockID="ef125afb-ad1e-4cce-bdc3-1a65ff503764" IsConnectedToMKB="False">
+      <Normal>
+        <Normal>
+          <Normal>GUEST #1</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Dialogue" BlockID="ba9b1403-b3ce-4dc7-a880-3ee60d6b41e9">
+      <Normal>
+        <Normal>
+          <Normal>It's James Gunn!</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Action" BlockID="fc5cd3ce-f032-4284-95fc-9dc748b7fa81">
+      <Normal>
+        <Normal>
+          <Normal>The Gunn is here. The Gunn is out. The Gunn is ready.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Character" BlockID="ffce7711-f358-443d-be01-23d797da4492" IsConnectedToMKB="False">
+      <Normal>
+        <Normal>
+          <Normal>JAMES GUNN</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Dialogue" BlockID="434c3fc2-940d-49d3-9345-a13bd765cdac">
+      <Normal>
+        <Normal>
+          <Normal>Hey everybody, I'm James Gunn.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Action" BlockID="540546b2-f574-4502-9c2a-4b5b6d0f74c4">
+      <Normal>
+        <Normal>
+          <Normal>The man with the snow-white hair approaches with a serious look on his face.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Character" BlockID="6cde6f31-ef7f-4ccd-858a-7c2eda44209f" IsConnectedToMKB="False">
+      <Normal>
+        <Normal>
+          <Normal>JAMES GUNN</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Dialogue" BlockID="af34bb1c-3add-4002-a7d5-6421d2da9532">
+      <Normal>
+        <Normal>
+          <Normal>Ramy. Michael. Please stop fighting.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Action" BlockID="98893bee-a29f-4fc9-8471-409572e419af">
+      <Normal>
+        <Normal>
+          <Normal>Ramy and Guest #1 stop fighting. Guest #1, whose name is Michael, stands in shock.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Character" BlockID="9cae0830-0a63-4853-8179-ed505df77891" IsConnectedToMKB="False">
+      <Normal>
+        <Normal>
+          <Normal>MICHAEL</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Dialogue" BlockID="949a9a84-d3f6-48e6-b9e2-95d4cee10d17">
+      <Normal>
+        <Normal>
+          <Normal>How did he—</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Character" BlockID="5b9bec49-dff2-4bd2-9e9d-a0c2c1303492" IsConnectedToMKB="False">
+      <Normal>
+        <Normal>
+          <Normal>JAMES GUNN</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Dialogue" BlockID="25146288-b0f7-4aba-b408-aced1beeff10">
+      <Normal>
+        <Normal>
+          <Normal>I have important news to announce.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Action" BlockID="b30dc903-3a21-4a06-8c81-39c8b60225e8">
+      <Normal>
+        <Normal>
+          <Normal>Suddenly, James Gunn points to someone no mortal soul can see.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Character" BlockID="1409435a-7d29-425c-8fe7-c8e51db85e84" IsConnectedToMKB="False">
+      <Normal>
+        <Normal>
+          <Normal>JAMES GUNN</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Dialogue" BlockID="bed02cee-ee32-4752-8538-40d6fabc4016">
+      <Normal>
+        <Normal>
+          <Normal>Mohammed Kenawy. We need you at our studio. The next blockbuster awaits you.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Character" BlockID="9c365065-2c6f-4415-a9ee-7b7eaf4bda51" IsConnectedToMKB="False">
+      <Normal>
+        <Normal>
+          <Normal>MOHAMMED KENAWY</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextType="Dialogue" BlockID="fa69912e-f170-4e69-8d4e-fa326882f33a">
+      <Normal>
+        <Normal>
+          <Normal>Yes, ladies and gentlemen. This is not a demo to show you how the tool works. It's a pretext to beg you to share this amateur script, and convince James Gunn to let me work with him.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+  </Document>
+  <Localization />
+</File>

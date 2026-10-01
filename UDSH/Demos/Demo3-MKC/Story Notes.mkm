@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<File>
+  <Metadata>
+    <AuthorID />
+    <FileID>2d1e6e2b-4d03-41e0-b61a-66632b821710</FileID>
+    <FileName>Story Notes</FileName>
+    <FileType>mkm</FileType>
+    <FileAuthor>Keem</FileAuthor>
+    <FileVersion>0.1.0</FileVersion>
+    <FileSize>3.63 KB</FileSize>
+    <FileCreationDate>7/29/2026 11:38:03 PM</FileCreationDate>
+    <FileLastModificationDate>7/29/2026 11:38:03 PM</FileLastModificationDate>
+    <SourceLanguageCulture>en</SourceLanguageCulture>
+    <IsLanguageRTL>False</IsLanguageRTL>
+  </Metadata>
+  <Document>
+    <ParagraphLine TextAlignment="Left" TextType="Normal" BlockID="a7a1412b-97a2-40e0-b7b4-fe6beef4bb17">
+      <Normal>
+        <Normal>
+          <Normal>Ramy and Ahmed, two brothers who come from a rich family. Ahmed the favorite task focused son throws a party celebrating his last achievement in the business world.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="Normal" BlockID="3145b7c4-6a47-42fd-9653-4c5a4ec0fb08">
+      <Normal>
+        <Normal>
+          <Normal>Ramy, unlike Ahmed, he is the party boy and a trouble maker. He had a rough relationship with his parents and they considered him a shame to the family name.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="Normal" BlockID="9c8a1215-15b4-4084-8724-7d6915a69ad3">
+      <Normal>
+        <Normal>
+          <Normal>While Ramy's parents hated their son, Ahmed has a soft spot for his brother and as the big brother, he tried his best straighten him up. But Ramy as the trouble maker he is, is just a constant disappointment.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="Normal" BlockID="de2d95f9-4438-440a-8ec8-c5fda8112939">
+      <Normal>
+        <Normal>
+          <Normal>Ramy's inheritance is running out and he comes to his brother's party to beg him help him start a business.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+  </Document>
+  <Localization />
+</File>

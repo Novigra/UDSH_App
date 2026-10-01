@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<File>
+  <Metadata>
+    <AuthorID />
+    <FileID>3e94e83f-4856-44cf-bb2a-41ebfa33c94f</FileID>
+    <FileName>Scenario</FileName>
+    <FileType>mkm</FileType>
+    <FileAuthor>Keem</FileAuthor>
+    <FileVersion>0.1.0</FileVersion>
+    <FileSize>4.61 KB</FileSize>
+    <FileCreationDate>7/29/2026 10:23:06 PM</FileCreationDate>
+    <FileLastModificationDate>7/29/2026 10:23:06 PM</FileLastModificationDate>
+    <SourceLanguageCulture>en</SourceLanguageCulture>
+    <IsLanguageRTL>False</IsLanguageRTL>
+  </Metadata>
+  <Document>
+    <ParagraphLine TextAlignment="Left" TextType="Header2" BlockID="a9221e71-5bef-459b-9173-d0acf8dc433d">
+      <Normal>
+        <Normal>
+          <Normal>Scenario</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="Normal" BlockID="bf41369f-0269-4800-90e6-6eaedf165369">
+      <Normal>
+        <Normal>
+          <Normal>The player talks to the merchant who can provide various services.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="Header2" BlockID="b7d2ebd8-0c41-482d-aaa6-f424225245d4">
+      <Normal>
+        <Normal>
+          <Normal>Scenario</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="Normal" BlockID="ccc4d2c4-bba5-4c8b-8918-055dc57832e2">
+      <Normal>
+        <Normal>
+          <Normal>okay? the player talks to the merchant who can provide various services.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="Header2" BlockID="1db45720-e5cf-4aa5-ae4e-207133b8aed4">
+      <Normal>
+        <Normal>
+          <Normal>Scenario</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="Normal" BlockID="5244e35d-55e7-4e04-ad39-595ce4277693">
+      <Normal>
+        <Normal>
+          <Normal>Didn't I just explain it? the player talks to the merchant who can provide various services.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="Header2" BlockID="9f46edbd-eaed-4d8a-a07c-e2decca8d9d6">
+      <Normal>
+        <Normal>
+          <Normal>Scenario</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="Normal" BlockID="08464c13-112d-49ac-8d62-be923d3555eb">
+      <Normal>
+        <Normal>
+          <Normal>Okay that's enough.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="Header2" BlockID="1c749943-80bd-48e1-b990-2fb324186efb">
+      <Normal>
+        <Normal>
+          <Normal>Scenario</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="Normal" BlockID="4147f5b2-a3f7-4b70-b930-3d5980143018">
+      <Normal>
+        <Normal>
+          <Normal>What's going on?</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="Header2" BlockID="3cf6ca8d-11c4-4b15-bd72-5943a47a2d20">
+      <Normal>
+        <Normal>
+          <Normal>Scenario</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="Normal" BlockID="3627dbed-2d81-47e3-b5b0-e5be9f0bc90d">
+      <Normal>
+        <Normal>
+          <Normal>Oh god...</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Right" TextType="Header2" BlockID="193d28df-79f4-4622-980a-6d89112c2a4b">
+      <Normal>
+        <Normal>
+          <Normal>سيناريو</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Right" TextType="Normal" BlockID="73b13b1a-0333-4fba-ad07-51fc69bc8d6b">
+      <Normal>
+        <Normal>
+          <Normal>ايه ده؟ قلبنا ل عربي؟</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="Header2" BlockID="c20c2035-bc74-42fb-9458-a7ed1ed66029">
+      <Normal>
+        <Normal>
+          <Normal>Scenario</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="Normal" BlockID="f3c64ed7-11d2-4c36-9279-7b6689559856">
+      <Normal>
+        <Normal>
+          <Normal>[Kendrick Lamar scream] (u in To Pimp A Butterfly)</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+  </Document>
+  <Localization />
+</File>

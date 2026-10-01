@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<File>
+  <Metadata>
+    <AuthorID />
+    <FileID>8526fdd6-8545-4cb8-84f9-b6bb5ebabaae</FileID>
+    <FileName>Laborer Letter</FileName>
+    <FileType>mkm</FileType>
+    <FileAuthor>Keem</FileAuthor>
+    <FileVersion>0.1.0</FileVersion>
+    <FileSize>7.38 KB</FileSize>
+    <FileCreationDate>7/1/2026 12:56:41 AM</FileCreationDate>
+    <FileLastModificationDate>7/14/2026 5:25:04 AM</FileLastModificationDate>
+    <SourceLanguageCulture>en</SourceLanguageCulture>
+    <IsLanguageRTL>False</IsLanguageRTL>
+  </Metadata>
+  <Document>
+    <ParagraphLine TextAlignment="Left" TextType="Normal" BlockID="7c575072-2240-4d83-974a-e9ef6d5a67d1">
+      <Normal>
+        <Normal>
+          <Normal>My love, I feel that I won't be able to make it, but I'm writing this hoping to give myself strength and determination to keep pushing so instead of receiving this letter, it's me you will see.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="Normal" BlockID="f28720d2-3a67-457f-b222-67cbf7b7142f">
+      <Normal>
+        <Normal>
+          <Normal>The sun is boiling my blood, my hands are full of splinters from all the wood we carry for railway construction, and the british soldiers are ruthless as usual, it almost feels like home. At least the weather isn't humid, which is actually nice. If I make it out somehow, I think I know where our next trip is.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="Normal" BlockID="0b3a6a00-f5d8-4afd-a747-f4b07864f91b">
+      <Normal>
+        <Normal>
+          <Normal>The only thing that keeps me straight are the men who work with me. The songs we sing, the stories we tell, the struggle we share. The spirit is high. Everyone has loved ones waiting for them.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="Normal" BlockID="db5279ae-232c-4a25-966d-ba60a7493af2">
+      <Normal>
+        <Normal>
+          <Normal>A couple of days ago, the british brought dozens of Egyptian men. the number of Egyptian men keeps getting higher. It seems they load off the hard work to us. I wonder if it is because we come from an extreme climate that is equivalent to hell. Two of them remind me a lot of our children Ahmed and Samir. Both of them are such sweethearts. My heart is filled with deep hatred towards the british. Those kids should be home playing football, not working in the field to provide money for their families.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="Normal" BlockID="f9602238-5d9a-46cd-811d-05c6cf722f48">
+      <Normal>
+        <Normal>
+          <Normal>One of them, Ali, told me that the country is going through a crisis and a new drug has taken the country by storm. Please keep your eyes on our kids. I don't understand how things just keep getting much worse. I hope they live a better life than us, and the only thing they should worry about is where to hang out with their friends.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="Normal" BlockID="83ea3b94-48fa-4d02-b697-50b271ec775b">
+      <Normal>
+        <Normal>
+          <Normal>Layla, I'm scared. I want to see you. I miss you.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="Normal" BlockID="579270e0-e444-4667-af71-5574e01e91ad">
+      <Normal>
+        <Normal>
+          <Normal>- Shoukry Waheed</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+  </Document>
+  <Localization>
+    <LocalizationData Culture="ar" IsRTL="True">
+      <LocalizationBlock BlockID="7c575072-2240-4d83-974a-e9ef6d5a67d1">
+        <Normal>
+          <Normal>
+            <Normal>حبيبتي، انا حاسس ان مش هقدر اطلع من اللي انا فيه بس انا بكتب في امل ان ادي نفسي الطاقة و العزيمة ان اكمل فبدل استقبال الرسالة دي، انا اللي هتشوفيه.</Normal>
+          </Normal>
+        </Normal>
+      </LocalizationBlock>
+      <LocalizationBlock BlockID="f28720d2-3a67-457f-b222-67cbf7b7142f">
+        <Normal>
+          <Normal>
+            <Normal>الشمس بيغلي دمي، ايدي مليان شوك من كل الخشب اللي كنا بنشيله علشان بنية سكة الحديد، و الجنود البريطانيين قاسيين كالعادة، يكاد اكون في البلد. على الاقل الجو مفهوش رطوبة، و بصراحة حلو. انا لو طلعت من اللي انا فيه بطريقة ما، انا عارف فين رحلتنا الجاية.</Normal>
+          </Normal>
+        </Normal>
+      </LocalizationBlock>
+      <LocalizationBlock BlockID="0b3a6a00-f5d8-4afd-a747-f4b07864f91b">
+        <Normal>
+          <Normal>
+            <Normal>الحاجة الوحيدة اللي مخلياني مكمل، الرجالة اللي بيشتغلوا معايا. الاغاني الل بينغنيها، القصص اللي بنحكيها، الجهاد اللي بنشاركه. الروح عالية. كل واحد ليه حبيب مستنيه.</Normal>
+          </Normal>
+        </Normal>
+      </LocalizationBlock>
+      <LocalizationBlock BlockID="db5279ae-232c-4a25-966d-ba60a7493af2">
+        <Normal>
+          <Normal>
+            <Normal>من كام يوم، البريطانيين جابوا مجموعة من رجالة مصريين. عدد الرجالة المصريين عمال يكبر. يبدو انهم بيرموا الحمل التقيل علينا. يا ترى يمكن علشان جايين من جو قاسي اللي عامل زي جهنم. اتنين منهم بيفكروني جدا بعيالنا احمد و سامر. الاتنين طيبين اوي. قلبي مليان كراهية للبريطانيين. العيال دي مفروض تكون في البلد تلعب كورة، مش يشتغلوا في الاراضي علشان يوفروا اكل عيش لعليتهم.</Normal>
+          </Normal>
+        </Normal>
+      </LocalizationBlock>
+      <LocalizationBlock BlockID="f9602238-5d9a-46cd-811d-05c6cf722f48">
+        <Normal>
+          <Normal>
+            <Normal>واحد منهم، علي، قالي ان البلد دخلت في ازمة و في مخدر جديد عمل ضجة في البلد. ارجوكي خلي بالك على عيالنا. انا مش فاهم ازاي الدنيا بتسوء اكتر. اتمنى انهم يعيشوا حياة احسن مننا، و الحاجة الوحيدة اللي يقلقوا عليها ان يخرجوا مع صحابهم فين.</Normal>
+          </Normal>
+        </Normal>
+      </LocalizationBlock>
+      <LocalizationBlock BlockID="83ea3b94-48fa-4d02-b697-50b271ec775b">
+        <Normal>
+          <Normal>
+            <Normal>ليلى، انا خايف. انا نفسي اشوفك. وحشتيني.</Normal>
+          </Normal>
+        </Normal>
+      </LocalizationBlock>
+      <LocalizationBlock BlockID="579270e0-e444-4667-af71-5574e01e91ad">
+        <Normal>
+          <Normal>
+            <Normal>- شكري وحيد</Normal>
+          </Normal>
+        </Normal>
+      </LocalizationBlock>
+    </LocalizationData>
+  </Localization>
+</File>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<File>
+  <Metadata>
+    <AuthorID />
+    <FileID>f9717dc1-bb4e-4a81-858b-c49c2f7da5fa</FileID>
+    <FileName>Mahshi Recipe</FileName>
+    <FileType>mkm</FileType>
+    <FileAuthor>Keem</FileAuthor>
+    <FileVersion>0.1.0</FileVersion>
+    <FileSize>3.87 KB</FileSize>
+    <FileCreationDate>7/13/2026 7:19:45 AM</FileCreationDate>
+    <FileLastModificationDate>7/13/2026 7:19:45 AM</FileLastModificationDate>
+    <SourceLanguageCulture>en</SourceLanguageCulture>
+    <IsLanguageRTL>False</IsLanguageRTL>
+  </Metadata>
+  <Document>
+    <ParagraphLine TextAlignment="Left" TextType="Header2" BlockID="80932a23-e036-41e7-bfa2-ebbfea5eed84">
+      <Normal>
+        <Normal>
+          <Normal>Mahshi Recipe</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="Normal" BlockID="7311dfd1-291e-4f6a-829e-fa95e8a4704d">
+      <Normal>
+        <Normal>
+          <Normal>First grab three vegetables: zucchini, eggplant, and green bell pepper. The quantity depends on how much you eat. Though, don't go crazy or your stomach will be your worst enemy. Core each vegetable, but of course before doing that, you need to remove the parts you normally don't eat, however, for zucchini, I don't fully remove the tip as it tastes good when cooked. For westerners, I don't know how you guys eat, so don't follow my instructions religiously.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="Normal" BlockID="4ac6d58d-746c-440b-a293-12295853d54c">
+      <Normal>
+        <Normal>
+          <Normal>After coring, grab a cabbage and cut it into pieces. Each piece will be stuffed and rolled, so keep that in mind when you cut to decide how big each piece is going to be.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="Normal" BlockID="27ad0b07-fceb-4d2f-a56b-419603d3347a">
+      <Normal>
+        <Normal>
+          <Normal>Get ready this is the part where we gonna make the filling. Finely chop a pepper. Finely chop a kilo or half a kilo of tomato depending on the quantity. Peel two big onions. Then, chop cilantro, parsley, and dill. Before doing all that, of course don't forget to wash them.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="Normal" BlockID="a1b1f81e-9b78-43ec-a937-0a91dedc15d7">
+      <Normal>
+        <Normal>
+          <Normal>After chopping, wash the rice and again the quantity depends on how much you want, but keep in mind we will use the rice for stuffing. After washing the rice, go ahead and add it to the ingredients you just chopped. Then, you add black pepper, chili powder, cumin, salt, and oil. Finally, after adding all that you start mixing them.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="Normal" BlockID="1f1e2907-d3ad-4493-a91e-2348f7b5a820">
+      <Normal>
+        <Normal>
+          <Normal>After finishing the filling, you then stuff the vegetables you cored with it. Arrange all the stuffed vegetables in a large stockpot, then pour broth or water over the stuffed vegetables. Turn on the heat and let the vegetables absorb the broth. Once the they have absorbed the broth, lower the heat and add a tablespoon of butter on top. Finally you let it cook.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="Normal" BlockID="bdeb8b04-64d5-4cf5-91da-736da86875b9">
+      <Normal>
+        <Normal>
+          <Normal>Congrats, not only do you know how MKM assets work in action, you also know how to cook Mahshi, a famous Egyptian delicacy.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+  </Document>
+  <Localization />
+</File>

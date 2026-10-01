@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<File>
+  <Metadata>
+    <AuthorID />
+    <FileID>30e401e0-e40d-479c-a239-8332621af47e</FileID>
+    <FileName>Story Premise</FileName>
+    <FileType>mkm</FileType>
+    <FileAuthor>Keem</FileAuthor>
+    <FileVersion>0.1.0</FileVersion>
+    <FileSize>1.61 KB</FileSize>
+    <FileCreationDate>7/13/2026 5:41:50 AM</FileCreationDate>
+    <FileLastModificationDate>7/13/2026 5:41:50 AM</FileLastModificationDate>
+    <SourceLanguageCulture>en</SourceLanguageCulture>
+    <IsLanguageRTL>False</IsLanguageRTL>
+  </Metadata>
+  <Document>
+    <ParagraphLine TextAlignment="Left" TextType="Header2" BlockID="87b5433e-90dc-4c45-aacd-c339c30abc7f">
+      <Normal>
+        <Normal>
+          <Normal>Story Premise</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="Normal" BlockID="33ff50e8-4ead-4556-aea3-91e600fdfa66">
+      <Normal>
+        <Normal>
+          <Normal>A dying Egyptian laborer whose country was dragged into a white man's war, forced to work for the british army, screams his last words as he meets his demise.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="Normal" BlockID="10ac2cce-413e-48ac-be7c-27a4909002f8">
+      <Normal>
+        <Normal>
+          <Normal>Btw, I noticed you keep nitpicking my work, and I don't like that. Do you know what? screw you. This is my project and I do what I want. Here's a Mahshi recipe.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+  </Document>
+  <Localization />
+</File>

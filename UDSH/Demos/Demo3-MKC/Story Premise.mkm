@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<File>
+  <Metadata>
+    <AuthorID />
+    <FileID>5aa717a9-e74d-456d-b708-adb6977eac81</FileID>
+    <FileName>Story Premise</FileName>
+    <FileType>mkm</FileType>
+    <FileAuthor>Keem</FileAuthor>
+    <FileVersion>0.1.0</FileVersion>
+    <FileSize>1.16 KB</FileSize>
+    <FileCreationDate>7/29/2026 11:04:10 PM</FileCreationDate>
+    <FileLastModificationDate>7/29/2026 11:04:10 PM</FileLastModificationDate>
+    <SourceLanguageCulture>en</SourceLanguageCulture>
+    <IsLanguageRTL>False</IsLanguageRTL>
+  </Metadata>
+  <Document>
+    <ParagraphLine TextAlignment="Left" TextType="Header2" BlockID="29f4b7fc-0c91-4469-9a76-f367acb4fe8c">
+      <Normal>
+        <Normal>
+          <Normal>Story Premise</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+    <ParagraphLine TextAlignment="Left" TextType="Normal" BlockID="25c4bbfb-e987-4fe5-995d-0c390e9f2105">
+      <Normal>
+        <Normal>
+          <Normal>Ramy tries to convince his brother's servant and let him inside and join his brother party.</Normal>
+        </Normal>
+      </Normal>
+    </ParagraphLine>
+  </Document>
+  <Localization />
+</File>
